@@ -1,16 +1,10 @@
 # Talabat-SWE-project
-
 1.	Introduction:
 The main goal of this software system is to create an efficient online food ordering and delivery platform for customers and restaurants which has become increasingly necessary due to the high demand for such services, particularly in urban areas where people are short on time.
-
 The system includes two types of users, an admin and customer. Customer can create an account and login, while the admin already has an account and only logs in.
-
 The customer selects a restaurant, orders food, also has the ability to benefit from promocodes to have discounts, and can also view their history of orders.
-
 The admin’s role is to manage promocodes and manage restaurants.
-
 The system's features include the ability for customers to view restaurants. Additionally, the system is compatible with other tools, such as payment gateways and facilitates online transactions.
-
 By fulfilling those objectives, the system overall should achieve satisfaction for customers, by good user experience, available application all the time, fast, stable, and durable with large number of users, and one of the most important things also is that user’s data must be secure. 
 
 2.	User Requirements:
